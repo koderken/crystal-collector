@@ -200,16 +200,4 @@ $(document).ready(function() {
     $("#lightBox_background, #lightBox").on("click", function() {
         game.displayLightBox(false);
     });
-});©
-2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+});
